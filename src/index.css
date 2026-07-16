@@ -123,17 +123,35 @@ margin-top: 68px;
 }
 .img2{
   position: absolute;
-  left: 120px;
+  left: 119px;
 }
 .img3{
   position: absolute;
-  right: 120px;
+  right: 575px;
 }
 .img4{
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 321px;
+  transform: translateX(-32%);
+}
+.p{
+  color: black;
+  margin-bottom: 35px;
 }
 .sbSection{
+  margin-top: 130px;
   position: relative;
+  margin-left: 0;
+  margin-right: 0;
 }
+h2{
+  margin-top: 10px;
+  margin-bottom: 24px;
+  width: 444px;
+height: 129px;
+font-size: 31px;
+line-height: 140%;
+}
+
+
+
