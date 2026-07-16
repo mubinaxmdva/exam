@@ -1,0 +1,10 @@
+
+button{
+  width: 150px;
+  height: 40px;
+  background-color: orange;
+  border: none;
+  color: white;
+  display: block;
+  margin: 10px;
+}
