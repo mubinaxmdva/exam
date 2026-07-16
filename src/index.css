@@ -6,8 +6,7 @@
 
 header{
   background: rgba(47, 47, 47, 1);
-  width: 1600px;
-height: 800px;
+  height: 800px;
 }
 a{
   color: white;
@@ -90,4 +89,33 @@ margin-top: 68px;
 }
 .stylish{
   margin-bottom: -20px;
+}
+.bagTypes{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.a{
+  color:rgba(47, 47, 47, 1);
+}
+.bagTypes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+.imgs{
+  display: flex;
+  justify-content: space-evenly;
+}
+.sectionEB{
+  margin: 30px;
+  display: block;
+}
+.cart{
+  width: 264px;
+  height: 306px;
+  border-radius: 10px;
+  border: 1px solid rgba(163, 163, 163, 1);
+  margin-top: 40px;
 }
