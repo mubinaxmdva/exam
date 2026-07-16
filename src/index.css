@@ -1,10 +1,31 @@
-
+header{
+  background: rgba(47, 47, 47, 1);
+}
+a{
+  color: white;
+}
 button{
-  width: 150px;
-  height: 40px;
+  padding: 8px 16px;
   background-color: orange;
+  border-radius: 4px;
   border: none;
   color: white;
   display: block;
   margin: 10px;
+}
+
+section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navcon{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 18px;
+}
+.navbar{
+  height: 100px;
 }
