@@ -7,9 +7,6 @@ function SchoolBags() {
   return (
     <section className="sbSection">
       <img className="img1" src={background2}/>
-      <img className="img2" src={leftImg}/>
-      <img className="img3" src={rightImg}/>
-      <img className="img4" src={mainImg}/>
       <div className="sbcon">
           <h3>Creative bag only for you.</h3>
           <h2>Lorem ipsum dolor sit amet consectetur adipiscing elit <br /> sed do eiusmod.</h2>
