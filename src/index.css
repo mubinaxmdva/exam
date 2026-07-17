@@ -233,3 +233,8 @@ margin-right: 68px;
   display: flex;
   gap: 8px;
 }
+.brands{
+  width: 1146px;
+  margin: 0 auto;
+  height: 72px;
+}
