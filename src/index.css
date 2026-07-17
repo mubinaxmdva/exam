@@ -146,7 +146,6 @@ margin-top: 68px;
 h2{
   margin-top: 10px;
   margin-bottom: 24px;
-  width: 444px;
 font-size: 31px;
 line-height: 140%;
 }
@@ -186,4 +185,51 @@ border-radius: 10px;
   border: 1px solid rgba(245, 155, 0, 0.2);
   margin-top: 80px;
   width: 170px;height: 49px;
+}
+.buy-section{
+  background-color: rgba(47, 47, 47, 0.95);
+  width: 1146px;
+height: 549px;
+margin: 30px;
+border-radius: 10px;
+display: flex;
+justify-content: space-between;
+}
+.whiteh2{
+  color: white;
+  margin-right: 30px;
+}
+.name{
+  width: 232px;
+height: 54px;
+border: 1px solid white;
+border-radius: 10px;
+background-color:  rgba(47, 47, 47, 0.95);
+padding-left: 12px;
+}
+.address{
+  width: 514px;
+height: 54px;
+border: 1px solid white;
+border-radius: 10px;
+background-color:  rgba(47, 47, 47, 0.95);
+padding-left: 12px;
+display: block;
+}
+.check{
+display: inline-block;
+}
+.buyS-con{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 514px;
+height: 342px;
+border-width: 1px;
+margin-right: 68px;
+}
+.checkcon{
+  display: flex;
+  gap: 8px;
 }
