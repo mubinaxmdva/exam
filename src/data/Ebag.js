@@ -5,19 +5,19 @@ import ebag4 from "../assets/ebag4.svg"
 
 export const ebag = [
   {
-    id: 1,
+    id: 9,
     img: ebag1,
   },
   {
-    id: 2,
+    id: 10,
     img: ebag2,
   },
   {
-    id: 3,
+    id: 11,
     img: ebag3,
   },
   {
-    id: 4,
+    id: 12,
     img: ebag4,
   }
 ]
