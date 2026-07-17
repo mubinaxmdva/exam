@@ -194,6 +194,7 @@ margin: 30px;
 border-radius: 10px;
 display: flex;
 justify-content: space-between;
+margin-top: 130px;
 }
 .whiteh2{
   color: white;
@@ -237,4 +238,12 @@ margin-right: 68px;
   width: 1146px;
   margin: 0 auto;
   height: 72px;
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+footer{
+  background-image: url("./assets/footer-bc.svg");
+  width: 1600px;
+height: 368px;
+opacity: 1;
 }
